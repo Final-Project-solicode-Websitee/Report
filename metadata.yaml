@@ -1,0 +1,22 @@
+---
+title: "QSM Project"
+subtitle: "REPORT FINAL DE PROJET"
+author: "Mallouli Abdelhay"
+supervisor: "Mr. Essarraj Fouad"
+date: "Academic Year 2025-2026"
+city: "Tangier, Morocco"
+site: "www.solicode.co"
+email: "info@solicode.co"
+phone: "(+212) 0634 39 05 05"
+lang: en-US
+documentclass: report
+toc: true
+toc-title: "Table of Contents"
+lot: true
+lof: true
+number-sections: true
+geometry: [a4paper, margin=2.5cm]
+header-includes: |
+  \usepackage{setspace}
+  \onehalfspacing
+---
