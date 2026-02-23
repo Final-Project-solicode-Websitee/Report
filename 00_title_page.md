@@ -29,7 +29,7 @@
 | | |
 |:--- | ---:|
 | **Submitted by:** | **Academic Year:** |
-| **Mallouli Abdelhay** | **2025 - 2026** |
+| **Soli-Devs26** | **2025 - 2026** |
 | | |
 | **Supervisor:** | **Location:** |
 | **Mr. Essarraj Fouad** | **Tangier, Morocco** |
